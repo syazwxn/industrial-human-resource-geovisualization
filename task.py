@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load your dataset (adjust path if needed)
-df = pd.read_csv(r"C:\Task\merged_data.csv")
+df = pd.read_csv("classified_by_sector.csv")
 
 # Clean column names
 df.columns = df.columns.str.lower().str.strip().str.replace(' ', '_')
