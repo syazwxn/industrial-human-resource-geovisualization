@@ -60,5 +60,5 @@ In India, understanding the classification of main and marginal workers (excludi
 
 ### 1. Clone this repo
 ```powershell
-    git clone https://github.com/syazwxn/human-resource-geo-visualization.git
-cd human-resource-geo-visualization
+   cd industrial-human-resource-geovisualization
+
