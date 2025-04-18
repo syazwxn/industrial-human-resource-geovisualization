@@ -59,7 +59,10 @@ In India, understanding the classification of main and marginal workers (excludi
 ## 🚀 How to Run
 
 ### 1. Clone this repo
-```bash
+```powershell
+     cd industrial-human-resource-geovisualization
+**Then run this **
+```powershell
+     streamlit run app.py
 
-git clone https://github.com/syazwxn/industrial-human-resource-geovisualization.git
 
