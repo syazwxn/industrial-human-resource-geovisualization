@@ -60,6 +60,6 @@ In India, understanding the classification of main and marginal workers (excludi
 
 ### 1. Clone this repo
 ```powershell
-     C:\Task\industrial-human-resource-geovisualization> streamlit run app.py
+     industrial-human-resource-geovisualization> streamlit run app.py
 
 
