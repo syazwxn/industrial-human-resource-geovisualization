@@ -62,3 +62,8 @@ In India, understanding the classification of main and marginal workers (excludi
 ```powershell
    cd industrial-human-resource-geovisualization
 
+## Then Use 
+```powershell
+   streamlit run app.py
+   
+
