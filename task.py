@@ -1,3 +1,4 @@
+
 import pandas as pd
 
 df = pd.read_csv(r"C:\Task\industrial-human-resource-geovisualization/classified_by_sector.csv")
@@ -37,4 +38,5 @@ print("\nSector Distribution:")
 print(df['sector'].value_counts())
 
 df.to_csv(r"C:\Task\classified_by_sector.csv", index=False)
+
 
